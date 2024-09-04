@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988271560157",
+    "project_id": "lojaflutter-46f5b",
+    "storage_bucket": "lojaflutter-46f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988271560157:android:dfc5d2a07086ddcfaae234",
+        "android_client_info": {
+          "package_name": "com.hectoraraujo.loja_compras"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6QdPQ9MhHoiq1YuDAQp7q6I6npmU5o7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
